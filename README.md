@@ -1,6 +1,6 @@
 # QLIP: Text Embedding Knows How to Quantize Text-Guided Diffusion Models
 
-![qlip_logo](qlip_logo.png)
+<img src="qlip_logo.png" alt="qlip_logo" style="width: 30%; height: auto;" />
 
 Official implementation of "Text Embedding Knows How to Quantize Text-Guided Diffusion Models".
 (Paper @ [ArXiv](https://arxiv.org/abs/2507.10340)).
